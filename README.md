@@ -1,4 +1,13 @@
+---
+title: RGB_Ring_lamp
+cover: 'http://image.lceda.cn/pullimage/2gIZetLrnOf59CterIL1sPwCwcmBwBWrc5JRIAZd.jpeg'
+abbrlink: 59663
+date: 2023-01-12 23:02:50
+
+---
+
 #  RGB_语音小灯_RGB
+
  RGB_语音小灯_RGB
 
  
@@ -11,7 +20,7 @@
 
 **个人博客:https://hinuohui.com/**
 
-Github仓库:
+Github仓库:https://github.com/Nuozhihui/RGB_Ring_lamp
 
 #  版本
 
@@ -29,7 +38,7 @@ RGB灯环，使用WS2812B和ESP-C3模组和VC-02语音模组
 
 TODO
 
-![120ce0d4fe4276ce431a684934416ba.jpg](//image.lceda.cn/pullimage/2gIZetLrnOf59CterIL1sPwCwcmBwBWrc5JRIAZd.jpeg)
+![120ce0d4fe4276ce431a684934416ba.jpg](http://image.lceda.cn/pullimage/2gIZetLrnOf59CterIL1sPwCwcmBwBWrc5JRIAZd.jpeg)
 
 ![image-20230112224404407](https://image.lceda.cn/pullimage/0TE7KIe4LvQbc3wffCwkdFF5BLSxN3qhqDAdr4RN.jpeg)
 
@@ -37,7 +46,15 @@ TODO
 
 <video src="https://oshwhub.com/attachments/2023/1/IfDyWO7dAQnEC5UFrooVmcl3fQot67o3DkIi3188.mp4"></video>
 
-基础介绍
+## 原理图
+
+V1.0
+
+![image-20230112230028816](https://bucket-zhihui.oss-cn-beijing.aliyuncs.com/undefinedimage-20230112230028816.png)
+
+## pcb
+
+![image-20230112230101818](https://bucket-zhihui.oss-cn-beijing.aliyuncs.com/undefinedimage-20230112230101818.png)
 
 ## 环境
 
